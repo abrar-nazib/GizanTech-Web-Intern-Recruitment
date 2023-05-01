@@ -10,6 +10,6 @@
 
 ## Solution
 
-The `src/index.js' contains the API endpoint creation code.\
+The `src/index.js` contains the API endpoint creation code.\
 Because of the point allocation, not much effort has been put into data sanitization and security.\
 The code has been kept minimalistic and adequately commented for better readability.
